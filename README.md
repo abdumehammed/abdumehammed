@@ -1,7 +1,6 @@
 - 👋 Hi, I’m abdhamid 
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on CNN and Car plate recognition
+- 👀 I’m interested in full stack developement,  machine learning specifically CNNs
+- 🌱 I’m currently working in different projects  
 - 📫 How to reach me 
 
 <!---
